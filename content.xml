@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606080118406M6IQD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608011840SPQQYG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Interpretamos y Compartimos: Viola y Uso Responsable de la Tecnología</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Mejoramos musicalmente mientras aprendemos a ser ciudadanos digitales seguros</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Isabel Blanco</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780740910227</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>a367ce48-ee8f-40d1-b2fe-d1c5af6d2b9f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Inicio: Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Inicio: Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Inicio: Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>a367ce48-ee8f-40d1-b2fe-d1c5af6d2b9f</odePageId>
+      <odeBlockId>block-1780741244177-5ipctqbgy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a367ce48-ee8f-40d1-b2fe-d1c5af6d2b9f</odePageId>
+          <odeBlockId>block-1780741244177-5ipctqbgy</odeBlockId>
+          <odeIdeviceId>idevice-1780741244173-xtd67ergq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Interpretamos y Compartimos: Viola y Uso Responsable de la Tecnología</strong></p>
+<p style="text-align: justify;">La actividad está dirigida a alumnado de viola de 3º de Enseñanzas Básicas a 1º de Profesionales (10-13 años) e integra herramientas digitales para grabar, analizar y mejorar la interpretación, junto con contenidos sobre privacidad y uso seguro y responsable de la tecnología y redes sociales. </p>
+<p style="text-align: justify;">A lo largo de cuatro sesiones, el alumnado aprenderá a preparar un entorno adecuado para la grabación, utilizar herramientas digitales básicas de edición, conocer los riesgos asociados al uso de tecnologías y su posible difusión y proteger sus datos personales. El alumnado interpreta una pieza que deberá grabar en vídeo o audio mediante dispositivos como tablet o móvil para autoevaluarse y analizar críticamente su propia interpretación musical.</p>
+<p><img src="{{context_path}}/content/resources/Actividad 2.1. Comenzamos nuestro proyecto.png" title="2.1" width="1366" height="2447" alt="Comenzamos nuestro proyecto" /></p>
+<p style="text-align: right;">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780741244173-xtd67ergq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Interpretamos y Compartimos: Viola y Uso Responsable de la Tecnología</strong></p>\n<p style=\"text-align: justify;\">La actividad está dirigida a alumnado de viola de 3º de Enseñanzas Básicas a 1º de Profesionales (10-13 años) e integra herramientas digitales para grabar, analizar y mejorar la interpretación, junto con contenidos sobre privacidad y uso seguro y responsable de la tecnología y redes sociales. </p>\n<p style=\"text-align: justify;\">A lo largo de cuatro sesiones, el alumnado aprenderá a preparar un entorno adecuado para la grabación, utilizar herramientas digitales básicas de edición, conocer los riesgos asociados al uso de tecnologías y su posible difusión y proteger sus datos personales. El alumnado interpreta una pieza que deberá grabar en vídeo o audio mediante dispositivos como tablet o móvil para autoevaluarse y analizar críticamente su propia interpretación musical.</p>\n<p><img src=\"{{context_path}}/content/resources/Actividad 2.1. Comenzamos nuestro proyecto.png\" title=\"2.1\" width=\"1366\" height=\"2447\" alt=\"Comenzamos nuestro proyecto\" /></p>\n<p style=\"text-align: right;\">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780741098647-s7rxoz3wm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Seguridad Digital</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Seguridad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Seguridad Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780741098647-s7rxoz3wm</odePageId>
+      <odeBlockId>block-1780741850285-y3cicdgw8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780741098647-s7rxoz3wm</odePageId>
+          <odeBlockId>block-1780741850285-y3cicdgw8</odeBlockId>
+          <odeIdeviceId>idevice-1780741850281-0h88j5hve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Tu seguridad y derechos digitales</strong></p>
+<p style="text-align: justify;">En este módulo abordaremos la protección de datos y garantías de derechos de autor.</p>
+<p style="text-align: justify;">La imagen y la voz son datos personales protegidos que forman parte de vuestra identidad y deben tratarse con especial cuidado. En el contexto de la grabación de una interpretación musical con la viola, se introduce el concepto de huella digital como el ‘eco’ que dejan estas grabaciones en internet. Este rastro puede permanecer en el tiempo, incluso aunque los archivos originales se eliminen, ya que pueden haber sido copiados, compartidos o almacenados en otros espacios digitales.</p>
+<p style="text-align: justify;">Además, es importante tener en cuenta algunos aspectos clave de privacidad. Los metadatos de fotos y vídeos pueden incluir información sensible, como la ubicación. Podría revelar el lugar exacto donde se ha realizado la grabación si no se desactiva previamente. Por ello, revisa y elimina estos datos antes de compartir cualquier archivo. También, aplica el principio de privacidad por defecto, configurando los perfiles y plataformas digitales, así evitarás la difusión pública innecesaria. Por último, procura que en el fondo no aparezcan elementos identificables, como ventanas con vistas a calles reconocibles, ni fotografías familiares, con el fin de proteger la privacidad de vuestro entorno. <img src="{{context_path}}/content/resources/unnamed (2).png" title="2.3" width="1366" height="2447" alt="Tu música, tus datos" style="float: left;" /></p>
+<p><img src="{{context_path}}/content/resources/derechos imagen.png" title="derechos" width="1024" height="1536" alt="Tus derechos" /></p>
+<p style="text-align: right;">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780741850281-0h88j5hve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Tu seguridad y derechos digitales</strong></p>\n<p style=\"text-align: justify;\">En este módulo abordaremos la protección de datos y garantías de derechos de autor.</p>\n<p style=\"text-align: justify;\">La imagen y la voz son datos personales protegidos que forman parte de vuestra identidad y deben tratarse con especial cuidado. En el contexto de la grabación de una interpretación musical con la viola, se introduce el concepto de huella digital como el ‘eco’ que dejan estas grabaciones en internet. Este rastro puede permanecer en el tiempo, incluso aunque los archivos originales se eliminen, ya que pueden haber sido copiados, compartidos o almacenados en otros espacios digitales.</p>\n<p style=\"text-align: justify;\">Además, es importante tener en cuenta algunos aspectos clave de privacidad. Los metadatos de fotos y vídeos pueden incluir información sensible, como la ubicación. Podría revelar el lugar exacto donde se ha realizado la grabación si no se desactiva previamente. Por ello, revisa y elimina estos datos antes de compartir cualquier archivo. También, aplica el principio de privacidad por defecto, configurando los perfiles y plataformas digitales, así evitarás la difusión pública innecesaria. Por último, procura que en el fondo no aparezcan elementos identificables, como ventanas con vistas a calles reconocibles, ni fotografías familiares, con el fin de proteger la privacidad de vuestro entorno. <img src=\"{{context_path}}/content/resources/unnamed (2).png\" title=\"2.3\" width=\"1366\" height=\"2447\" alt=\"Tu música, tus datos\" style=\"float: left;\" /></p>\n<p><img src=\"{{context_path}}/content/resources/derechos imagen.png\" title=\"derechos\" width=\"1024\" height=\"1536\" alt=\"Tus derechos\" /></p>\n<p style=\"text-align: right;\">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780741129976-2omzxbvbe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Preparando el escenario</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Preparando el escenario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Preparando el escenario</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780741129976-2omzxbvbe</odePageId>
+      <odeBlockId>block-1780744224928-a6geyio7a</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780741129976-2omzxbvbe</odePageId>
+          <odeBlockId>block-1780744224928-a6geyio7a</odeBlockId>
+          <odeIdeviceId>idevice-1780744224915-wkgbnszs7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Preparando el escenario</strong></p>
+<p style="text-align: justify;">Antes de comenzar la grabación, es necesario preparar adecuadamente el escenario de trabajo, tanto desde el punto de vista técnico como acústico. Esta fase garantiza una grabación más clara, profesional y segura en términos de privacidad. Para ello, revisa cuidadosamente el fondo para evitar que aparezcan objetos personales, fotografías o documentos. Puedes consultar estas infografías, donde se muestran los mejores ángulos de grabación, para asegurar que se os vea correctamente la postura y mejorar la acústica del lugar donde os grabéis.</p>
+<p><img src="{{context_path}}/content/resources/donde colocar la camara.jpg" title="imagen" width="853" height="1280" alt="Dónde colocar la cámara" /></p>
+<p><img src="{{context_path}}/content/resources/Guía_acústica_para_grabar_viola.png" title="acústica" width="1366" height="762" alt="guía" /></p>
+<p style="text-align: right;">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780744224915-wkgbnszs7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Preparando el escenario</strong></p>\n<p style=\"text-align: justify;\">Antes de comenzar la grabación, es necesario preparar adecuadamente el escenario de trabajo, tanto desde el punto de vista técnico como acústico. Esta fase garantiza una grabación más clara, profesional y segura en términos de privacidad. Para ello, revisa cuidadosamente el fondo para evitar que aparezcan objetos personales, fotografías o documentos. Puedes consultar estas infografías, donde se muestran los mejores ángulos de grabación, para asegurar que se os vea correctamente la postura y mejorar la acústica del lugar donde os grabéis.</p>\n<p><img src=\"{{context_path}}/content/resources/donde colocar la camara.jpg\" title=\"imagen\" width=\"853\" height=\"1280\" alt=\"Dónde colocar la cámara\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Guía_acústica_para_grabar_viola.png\" title=\"acústica\" width=\"1366\" height=\"762\" alt=\"guía\" /></p>\n<p style=\"text-align: right;\">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780741145726-pmer2ev32</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Herramientas y Recursos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Herramientas y Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780741145726-pmer2ev32</odePageId>
+      <odeBlockId>block-1780745584342-5tsasbvwg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780741145726-pmer2ev32</odePageId>
+          <odeBlockId>block-1780745584342-5tsasbvwg</odeBlockId>
+          <odeIdeviceId>idevice-1780745584332-by8fpvf5b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Herramientas y recursos para crear tu grabación</strong></p>
+<p style="text-align: justify;">¡Ha llegado el momento de convertirte en intérprete, técnico de sonido y editor o editora de tu propio vídeo musical!</p>
+<p style="text-align: justify;">Para ayudarte en esta tarea, he preparado una selección de herramientas y recursos digitales que te ayudarán a grabar, mejorar y presentar tu interpretación de forma sencilla, incluso si nunca has editado un vídeo o un audio anteriormente.</p>
+<p style="text-align: justify;">Te recomiendo que utilices aplicaciones como <strong>CapCut</strong>, para editar vídeos de manera rápida e intuitiva, y <strong>Audacity</strong>, para grabar y mejorar la calidad del audio de tu interpretación. Ambas son gratuitas y fáciles de utilizar.</p>
+<p style="text-align: justify;">Además, he creado un espacio con tutoriales, ejemplos y recursos de apoyo que te acompañarán durante todo el proceso de grabación y edición. Antes de comenzar, dedica unos minutos a explorarlo.</p>
+<p style="text-align: justify;">📚 Banco de recursos del proyecto:<br />https://padlet.com/anaisabelbc/recursos-para-la-grabacion-y-edicion-musical-92e20z8nvkf5yipl</p>
+<p style="text-align: justify;">Recuerda que el objetivo no es conseguir una grabación profesional, sino aprender a utilizar las herramientas digitales de forma responsable y creativa para mostrar tu progreso musical. Cada intento te ayudará a mejorar tanto tu interpretación con la viola como tus competencias digitales.</p>
+<p style="text-align: justify;">¡Explora, experimenta y disfruta del proceso de crear tu propia producción musical!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780745584332-by8fpvf5b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Herramientas y recursos para crear tu grabación</strong></p>\n<p style=\"text-align: justify;\">¡Ha llegado el momento de convertirte en intérprete, técnico de sonido y editor o editora de tu propio vídeo musical!</p>\n<p style=\"text-align: justify;\">Para ayudarte en esta tarea, he preparado una selección de herramientas y recursos digitales que te ayudarán a grabar, mejorar y presentar tu interpretación de forma sencilla, incluso si nunca has editado un vídeo o un audio anteriormente.</p>\n<p style=\"text-align: justify;\">Te recomiendo que utilices aplicaciones como <strong>CapCut</strong>, para editar vídeos de manera rápida e intuitiva, y <strong>Audacity</strong>, para grabar y mejorar la calidad del audio de tu interpretación. Ambas son gratuitas y fáciles de utilizar.</p>\n<p style=\"text-align: justify;\">Además, he creado un espacio con tutoriales, ejemplos y recursos de apoyo que te acompañarán durante todo el proceso de grabación y edición. Antes de comenzar, dedica unos minutos a explorarlo.</p>\n<p style=\"text-align: justify;\">📚 Banco de recursos del proyecto:<br />https://padlet.com/anaisabelbc/recursos-para-la-grabacion-y-edicion-musical-92e20z8nvkf5yipl</p>\n<p style=\"text-align: justify;\">Recuerda que el objetivo no es conseguir una grabación profesional, sino aprender a utilizar las herramientas digitales de forma responsable y creativa para mostrar tu progreso musical. Cada intento te ayudará a mejorar tanto tu interpretación con la viola como tus competencias digitales.</p>\n<p style=\"text-align: justify;\">¡Explora, experimenta y disfruta del proceso de crear tu propia producción musical!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780741163114-e3iloc5a1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea Temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Línea Temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780741163114-e3iloc5a1</odePageId>
+      <odeBlockId>block-1780832038000-s0y5n3r2s</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780741163114-e3iloc5a1</odePageId>
+          <odeBlockId>block-1780832038000-s0y5n3r2s</odeBlockId>
+          <odeIdeviceId>idevice-1780832037902-rjee8ucff</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Hoja de ruta</strong></p>
+<p style="text-align: justify;">A continuación encontrarás la planificación de las diferentes fases del trabajo que te ayudarán a crear una grabación musical de calidad, respetando al mismo tiempo las normas de seguridad y privacidad digital.</p>
+<p style="text-align: justify;">Además, como apoyo dispones de un mapa mental que resume visualmente los conceptos, tareas y recursos más importantes. Puedes consultarlo siempre que lo necesites para orientarte durante el proceso y comprobar en qué fase del trabajo te encuentras.</p>
+<p style="text-align: justify;">Sesión 1. Configuración de privacidad y seguridad digital<br />Comenzaremos aprendiendo a proteger nuestra identidad digital. Revisaremos la configuración de privacidad de las herramientas que utilizaremos, conoceremos qué es la huella digital y aplicaremos medidas para compartir nuestros trabajos de forma segura.</p>
+<p style="text-align: justify;">Sesión 2. Preparación de la acústica del espacio e iluminación<br />Antes de grabar, prepararemos el entorno. Aprenderás a mejorar la acústica de la habitación para reducir el eco, organizar el encuadre de la cámara y cuidar la iluminación para obtener una grabación clara y agradable.</p>
+<p style="text-align: justify;">Sesión 3. Grabación técnica de la pieza<br />Es el momento de interpretar. Pondrás en práctica los aspectos trabajados anteriormente para realizar la grabación de tu pieza musical, cuidando la postura, la calidad del sonido y la presentación visual.</p>
+<p style="text-align: justify;">Sesión 4. Autoobservación crítica y compartición en entorno seguro<br />Finalmente, visualizarás tu grabación para identificar fortalezas y aspectos de mejora. Reflexionarás sobre tu proceso de aprendizaje y compartirás el trabajo únicamente a través de los canales educativos establecidos, respetando las normas de privacidad y protección de datos.</p>
+<p><img src="{{context_path}}/content/resources/Proyecto mapa mental.png" title="mp" width="1366" height="762" alt="mapa mental" /><br /></p>
+<p style="text-align: right;">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780832037902-rjee8ucff","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Hoja de ruta</strong></p>\n<p style=\"text-align: justify;\">A continuación encontrarás la planificación de las diferentes fases del trabajo que te ayudarán a crear una grabación musical de calidad, respetando al mismo tiempo las normas de seguridad y privacidad digital.</p>\n<p style=\"text-align: justify;\">Además, como apoyo dispones de un mapa mental que resume visualmente los conceptos, tareas y recursos más importantes. Puedes consultarlo siempre que lo necesites para orientarte durante el proceso y comprobar en qué fase del trabajo te encuentras.</p>\n<p style=\"text-align: justify;\">Sesión 1. Configuración de privacidad y seguridad digital<br />Comenzaremos aprendiendo a proteger nuestra identidad digital. Revisaremos la configuración de privacidad de las herramientas que utilizaremos, conoceremos qué es la huella digital y aplicaremos medidas para compartir nuestros trabajos de forma segura.</p>\n<p style=\"text-align: justify;\">Sesión 2. Preparación de la acústica del espacio e iluminación<br />Antes de grabar, prepararemos el entorno. Aprenderás a mejorar la acústica de la habitación para reducir el eco, organizar el encuadre de la cámara y cuidar la iluminación para obtener una grabación clara y agradable.</p>\n<p style=\"text-align: justify;\">Sesión 3. Grabación técnica de la pieza<br />Es el momento de interpretar. Pondrás en práctica los aspectos trabajados anteriormente para realizar la grabación de tu pieza musical, cuidando la postura, la calidad del sonido y la presentación visual.</p>\n<p style=\"text-align: justify;\">Sesión 4. Autoobservación crítica y compartición en entorno seguro<br />Finalmente, visualizarás tu grabación para identificar fortalezas y aspectos de mejora. Reflexionarás sobre tu proceso de aprendizaje y compartirás el trabajo únicamente a través de los canales educativos establecidos, respetando las normas de privacidad y protección de datos.</p>\n<p><img src=\"{{context_path}}/content/resources/Proyecto mapa mental.png\" title=\"mp\" width=\"1366\" height=\"762\" alt=\"mapa mental\" /><br /></p>\n<p style=\"text-align: right;\">Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780741177788-3kxbvnzyb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780741177788-3kxbvnzyb</odePageId>
+      <odeBlockId>block-1780833631780-hkrh0z0so</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780741177788-3kxbvnzyb</odePageId>
+          <odeBlockId>block-1780833631780-hkrh0z0so</odeBlockId>
+          <odeIdeviceId>idevice-1780833631776-69imhs7cx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Cómo se evaluará mi trabajo</strong></p>
+<p style="text-align: justify;">A lo largo de las diferentes sesiones tendrás la oportunidad de demostrar tus avances, reflexionar sobre tu propio aprendizaje y recibir orientación para seguir progresando. Para ello utilizaremos diferentes instrumentos de evaluación que nos permitirán valorar tanto el proceso como el resultado final de tu trabajo.</p>
+<p style="text-align: justify;"><strong>Rúbrica de evaluación</strong><br />La rúbrica nos ayudará a conocer qué aspectos se tendrán en cuenta durante el proyecto y qué nivel de desempeño se espera en cada uno de ellos. </p>
+<p style="text-align: justify;">Los criterios que se valorarán serán:</p>
+<p style="text-align: justify;">- La interpretación musical.<br />- El uso de herramientas digitales: aplicación de medidas de privacidad y seguridad digital.<br />- Capacidad para resolver problemas técnicos de forma autónoma.<br />- Actitud y participación durante la actividad.</p>
+<p style="text-align: justify;"><strong>Cuestionario de seguridad digital y privacidad</strong><br />Tras la sesión dedicada a la seguridad digital realizarás un cuestionario para comprobar si eres capaz de identificar riesgos y adoptar medidas adecuadas para proteger tu identidad digital. Entre otros aspectos, reflexionarás sobre:</p>
+<p style="text-align: justify;">- Los metadatos que pueden contener los archivos musicales y audiovisuales.<br />- La configuración segura de perfiles y cuentas digitales.<br />- La importancia de la huella digital y su impacto en el futuro académico y profesional.<br />- La resolución de problemas relacionados con la privacidad y la seguridad en entornos digitales.</p>
+<p style="text-align: justify;"><strong>Informe de autoevaluación</strong><br />Una vez finalizada la grabación, dedicarás un tiempo a observar tu propio vídeo y analizar tu trabajo de forma crítica y constructiva. Durante esta reflexión podrás valorar aspectos como:</p>
+<p style="text-align: justify;">- Postura corporal durante la interpretación, y colocación de la viola y del arco.<br />- La calidad sonora obtenida en la grabación.<br />- La preparación del espacio, la iluminación y la acústica.<br />- Las dificultades encontradas durante el proceso.<br />- Los aspectos que consideras mejorables para futuras grabaciones.<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780833631776-69imhs7cx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Cómo se evaluará mi trabajo</strong></p>\n<p style=\"text-align: justify;\">A lo largo de las diferentes sesiones tendrás la oportunidad de demostrar tus avances, reflexionar sobre tu propio aprendizaje y recibir orientación para seguir progresando. Para ello utilizaremos diferentes instrumentos de evaluación que nos permitirán valorar tanto el proceso como el resultado final de tu trabajo.</p>\n<p style=\"text-align: justify;\"><strong>Rúbrica de evaluación</strong><br />La rúbrica nos ayudará a conocer qué aspectos se tendrán en cuenta durante el proyecto y qué nivel de desempeño se espera en cada uno de ellos. </p>\n<p style=\"text-align: justify;\">Los criterios que se valorarán serán:</p>\n<p style=\"text-align: justify;\">- La interpretación musical.<br />- El uso de herramientas digitales: aplicación de medidas de privacidad y seguridad digital.<br />- Capacidad para resolver problemas técnicos de forma autónoma.<br />- Actitud y participación durante la actividad.</p>\n<p style=\"text-align: justify;\"><strong>Cuestionario de seguridad digital y privacidad</strong><br />Tras la sesión dedicada a la seguridad digital realizarás un cuestionario para comprobar si eres capaz de identificar riesgos y adoptar medidas adecuadas para proteger tu identidad digital. Entre otros aspectos, reflexionarás sobre:</p>\n<p style=\"text-align: justify;\">- Los metadatos que pueden contener los archivos musicales y audiovisuales.<br />- La configuración segura de perfiles y cuentas digitales.<br />- La importancia de la huella digital y su impacto en el futuro académico y profesional.<br />- La resolución de problemas relacionados con la privacidad y la seguridad en entornos digitales.</p>\n<p style=\"text-align: justify;\"><strong>Informe de autoevaluación</strong><br />Una vez finalizada la grabación, dedicarás un tiempo a observar tu propio vídeo y analizar tu trabajo de forma crítica y constructiva. Durante esta reflexión podrás valorar aspectos como:</p>\n<p style=\"text-align: justify;\">- Postura corporal durante la interpretación, y colocación de la viola y del arco.<br />- La calidad sonora obtenida en la grabación.<br />- La preparación del espacio, la iluminación y la acústica.<br />- Las dificultades encontradas durante el proceso.<br />- Los aspectos que consideras mejorables para futuras grabaciones.<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780741196269-f2g3pmr85</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Guía Didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780741196269-f2g3pmr85</odePageId>
+      <odeBlockId>block-1780856654883-lw0jl91qf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780741196269-f2g3pmr85</odePageId>
+          <odeBlockId>block-1780856654883-lw0jl91qf</odeBlockId>
+          <odeIdeviceId>idevice-1780856654812-a9ctr2n3q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Guía Didáctica</strong><br /><strong></strong></p>
+<p style="text-align: justify;"><strong>Relación entre tareas y criterios de evaluación</strong></p>
+<p style="text-align: justify;">La relación directa entre las tareas realizadas y los criterios de evaluación de este trabajo, garantiza la coherencia con las competencias específicas trabajadas. En la primera tarea, centrada en la configuración de la privacidad y la seguridad digital, se evalúa la capacidad del alumnado para identificar riesgos y aplicar medidas básicas de protección de datos. En la segunda, relacionada con la preparación del espacio de grabación, se valora la correcta selección del entorno y el uso adecuado de los dispositivos. La tercera tarea, dedicada a la grabación de la interpretación musical, evalúa tanto la ejecución instrumental como el uso autónomo de herramientas digitales y la resolución de problemas técnicos. Finalmente, en la última tarea se aborda la autoevaluación y la difusión segura, valorando la reflexión crítica sobre el propio proceso de aprendizaje y el respeto a las normas de privacidad al compartir contenidos digitales.<br /> <br /><strong>Observaciones y recomendaciones para el profesorado</strong><br />Se recomienda dedicar unos minutos al inicio de cada sesión para resolver dudas técnicas relacionadas con los dispositivos o aplicaciones utilizadas. Resulta especialmente útil identificar al alumnado con mayor competencia digital para que pueda colaborar como apoyo entre iguales y así favorecer el aprendizaje cooperativo y la resolución autónoma de incidencias.</p>
+<p style="text-align: justify;">Asimismo, es aconsejable acudir al Padlet del punto 4 con ejemplos de tutoriales breves y recursos visuales que facilitan la comprensión de los procedimientos técnicos. En caso de dificultades relacionadas con la tecnología, debe priorizarse la evaluación de los aprendizajes musicales y digitales adquiridos sobre la calidad técnica final del producto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780856654812-a9ctr2n3q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Guía Didáctica</strong><br /><strong></strong></p>\n<p style=\"text-align: justify;\"><strong>Relación entre tareas y criterios de evaluación</strong></p>\n<p style=\"text-align: justify;\">La relación directa entre las tareas realizadas y los criterios de evaluación de este trabajo, garantiza la coherencia con las competencias específicas trabajadas. En la primera tarea, centrada en la configuración de la privacidad y la seguridad digital, se evalúa la capacidad del alumnado para identificar riesgos y aplicar medidas básicas de protección de datos. En la segunda, relacionada con la preparación del espacio de grabación, se valora la correcta selección del entorno y el uso adecuado de los dispositivos. La tercera tarea, dedicada a la grabación de la interpretación musical, evalúa tanto la ejecución instrumental como el uso autónomo de herramientas digitales y la resolución de problemas técnicos. Finalmente, en la última tarea se aborda la autoevaluación y la difusión segura, valorando la reflexión crítica sobre el propio proceso de aprendizaje y el respeto a las normas de privacidad al compartir contenidos digitales.<br /> <br /><strong>Observaciones y recomendaciones para el profesorado</strong><br />Se recomienda dedicar unos minutos al inicio de cada sesión para resolver dudas técnicas relacionadas con los dispositivos o aplicaciones utilizadas. Resulta especialmente útil identificar al alumnado con mayor competencia digital para que pueda colaborar como apoyo entre iguales y así favorecer el aprendizaje cooperativo y la resolución autónoma de incidencias.</p>\n<p style=\"text-align: justify;\">Asimismo, es aconsejable acudir al Padlet del punto 4 con ejemplos de tutoriales breves y recursos visuales que facilitan la comprensión de los procedimientos técnicos. En caso de dificultades relacionadas con la tecnología, debe priorizarse la evaluación de los aprendizajes musicales y digitales adquiridos sobre la calidad técnica final del producto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780741220194-8d2eacfp7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780741220194-8d2eacfp7</odePageId>
+      <odeBlockId>block-1780858424436-ombve7s94</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780741220194-8d2eacfp7</odePageId>
+          <odeBlockId>block-1780858424436-ombve7s94</odeBlockId>
+          <odeIdeviceId>idevice-1780858424409-5r6em5w63</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>
+<p><em>Descarga <strong>aquí </strong>el archivo editable</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780858424409-5r6em5w63","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Ana Isabel Blanco Carmona<br />Licencia: Creative Commons </p>\n<p><em>Descarga <strong>aquí </strong>el archivo editable</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
